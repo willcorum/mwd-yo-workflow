@@ -1,1 +1,1 @@
-"use strict";console.log("'Allo 'Allo!");var datetime=moment().format("dddd, MMMM Do YYYY, h:mm:ss a");$("#datetime").text(datetime);
+"use strict";
